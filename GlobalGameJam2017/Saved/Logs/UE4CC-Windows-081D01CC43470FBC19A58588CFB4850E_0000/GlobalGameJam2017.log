@@ -342,16 +342,3 @@ LogInit: Object subsystem initialized
 [2017.01.21-16.16.42:049][886]LogOutputDevice:Error: ntdll.dll
 [2017.01.21-16.16.42:049][886]LogOutputDevice:Error: 
 [2017.01.21-16.16.42:054][886]LogStats:                SubmitErrorReport -  0.000 s
-[2017.01.21-16.16.42:253][886]LogStats:                    SendNewReport -  0.199 s
-[2017.01.21-16.16.42:253][886]LogStats:             FDebug::EnsureFailed -  0.211 s
-[2017.01.21-16.16.58:072][886]LogSourceControl: FGitCheckInWorker: commit successful
-[2017.01.21-16.16.58:105][886]SourceControl: Info On branch master
-[2017.01.21-16.16.58:105][886]SourceControl: Info Your branch is up-to-date with 'origin/master'.
-[2017.01.21-16.16.58:105][886]SourceControl: Info Changes not staged for commit:
-[2017.01.21-16.16.58:105][886]SourceControl: Info 	modified:   GlobalGameJam2017/Saved/Logs/GlobalGameJam2017.log
-[2017.01.21-16.16.58:105][886]SourceControl: Info Untracked files:
-[2017.01.21-16.16.58:105][886]SourceControl: Info 	GlobalGameJam2017/Saved/Logs/Git-TempDE383C5E43904CBF03E39DADEECBCB1C.txt
-[2017.01.21-16.16.58:105][886]SourceControl: Info 	GlobalGameJam2017/Saved/Logs/UE4CC-Windows-081D01CC43470FBC19A58588CFB4850E_0000/
-[2017.01.21-16.16.58:105][886]SourceControl: Info no changes added to commit
-[2017.01.21-16.16.58:111][886]SourceControl: Info Commited On branch master.
-[2017.01.21-16.17.03:607][111]SourceControl: Info rm 'GlobalGameJam2017/Content/Materials/NewMaterial.uasset'
