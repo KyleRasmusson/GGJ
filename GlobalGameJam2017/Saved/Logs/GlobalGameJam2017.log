@@ -607,3 +607,11 @@ LogInit: Object subsystem initialized
 [2017.01.21-20.57.24:944][438]LogStats:                    SendNewReport -  0.300 s
 [2017.01.21-20.57.24:944][438]LogStats:             FDebug::EnsureFailed -  0.314 s
 [2017.01.21-20.57.46:159][438]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.01.21-20.57.46:224][438]SourceControl: Info [master ef313fd] Uploaded level
+[2017.01.21-20.57.46:224][438]SourceControl: Info  5 files changed, 0 insertions(+), 0 deletions(-)
+[2017.01.21-20.57.46:224][438]SourceControl: Info  create mode 100644 GlobalGameJam2017/Content/Blueprints/CustomScript.uasset
+[2017.01.21-20.57.46:224][438]SourceControl: Info  create mode 100644 GlobalGameJam2017/Content/Blueprints/NewBlueprint.uasset
+[2017.01.21-20.57.46:224][438]SourceControl: Info  create mode 100644 GlobalGameJam2017/Content/Blueprints/PingControls.uasset
+[2017.01.21-20.57.46:224][438]SourceControl: Info  rewrite GlobalGameJam2017/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset (85%)
+[2017.01.21-20.57.46:232][438]SourceControl: Info Commited [master ef313fd] Uploaded level.
+[2017.01.21-21.02.53:239][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
