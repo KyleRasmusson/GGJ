@@ -1546,3 +1546,17 @@ Scale3D: 1.000000 1.000000 1.000000
 [2017.01.21-19.58.10:456][106]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
 [2017.01.21-19.58.10:559][106]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/Moosca/Documents/Unreal Projects/GGJ/GlobalGameJam2017/GlobalGameJam2017.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
 [2017.01.21-19.58.20:194][106]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.01.21-19.58.20:226][106]SourceControl: Info [master 5419aa5] Basic UI
+[2017.01.21-19.58.20:226][106]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.01.21-19.58.20:226][106]SourceControl: Info  create mode 100644 GlobalGameJam2017/Content/UI/UI_HUD.uasset
+[2017.01.21-19.58.20:231][106]SourceControl: Info Commited [master 5419aa5] Basic UI.
+[2017.01.21-20.01.06:811][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.026
+[2017.01.21-20.01.06:812][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_HUD] ([1] browsable assets)...
+[2017.01.21-20.01.06:812][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_HUD]
+[2017.01.21-20.01.06:865][844]LogSavePackage: Save=38.59ms
+[2017.01.21-20.01.06:865][844]LogSavePackage: Moving '../../../../../../Users/Moosca/Documents/Unreal Projects/GGJ/GlobalGameJam2017/Saved/UI_HUD_Auto342A0FB42425837976D41FCAE8F29187B.tmp' to '../../../../../../Users/Moosca/Documents/Unreal Projects/GGJ/GlobalGameJam2017/Saved/Autosaves/Game/UI/UI_HUD_Auto3.uasset'
+[2017.01.21-20.01.06:867][844]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Moosca/Documents/Unreal Projects/GGJ/GlobalGameJam2017/Saved/Autosaves/Game/UI/UI_HUD_Auto3.uasset
+[2017.01.21-20.01.06:867][844]LogFileHelpers: Auto-saving content packages took 0.055
+[2017.01.21-20.11.07:549][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.028
+[2017.01.21-20.11.07:550][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_HUD] ([1] browsable assets)...
+[2017.01.21-20.11.07:550][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_HUD]
