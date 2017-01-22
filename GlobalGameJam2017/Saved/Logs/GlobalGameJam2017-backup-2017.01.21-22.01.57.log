@@ -1,0 +1,1024 @@
+﻿Log file open, 01/21/17 21:51:39
+LogInit:Display: Running engine for game: GlobalGameJam2017
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1157903895) SRandInit(-1157903895).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.078369
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.22-02.51.39:894][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.22-02.51.39:894][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.22-02.51.39:905][  0]LogInit: Computer: DESKTOP-TA315DP
+[2017.01.22-02.51.39:905][  0]LogInit: User: MarcusSeigman
+[2017.01.22-02.51.39:905][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.22-02.51.39:905][  0]LogInit: High frequency timer resolution =2.435777 MHz
+[2017.01.22-02.51.39:905][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.01.22-02.51.39:905][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.22-02.51.39:905][  0]LogMemory: Process Physical Memory: 263.50 MB used, 263.50 MB peak
+[2017.01.22-02.51.39:905][  0]LogMemory: Process Virtual Memory: 262.83 MB used, 262.83 MB peak
+[2017.01.22-02.51.39:905][  0]LogMemory: Physical Memory: 5412.61 MB used,  10847.59 MB free, 16260.21 MB total
+[2017.01.22-02.51.39:905][  0]LogMemory: Virtual Memory: 676.41 MB used,  10847.59 MB free, 134217728.00 MB total
+[2017.01.22-02.51.39:925][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.01.22-02.51.40:487][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.22-02.51.40:498][  0]LogD3D11RHI:    0. 'AMD Radeon R9 M370X' (Feature Level 11_0)
+[2017.01.22-02.51.40:498][  0]LogD3D11RHI:       2026/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.01.22-02.51.40:499][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.22-02.51.40:499][  0]LogD3D11RHI:       0/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.22-02.51.40:500][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.22-02.51.40:504][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.22-02.51.40:504][  0]LogD3D11RHI:     GPU DeviceId: 0x6821 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.22-02.51.40:504][  0]LogWindows: EnumDisplayDevices:
+[2017.01.22-02.51.40:504][  0]LogWindows:    0. 'AMD Radeon R9 M370X' (P:1 D:1)
+[2017.01.22-02.51.40:504][  0]LogWindows:    1. 'AMD Radeon R9 M370X' (P:0 D:0)
+[2017.01.22-02.51.40:504][  0]LogWindows:    2. 'AMD Radeon R9 M370X' (P:0 D:0)
+[2017.01.22-02.51.40:505][  0]LogWindows:    3. 'AMD Radeon R9 M370X' (P:0 D:0)
+[2017.01.22-02.51.40:505][  0]LogWindows:    4. 'AMD Radeon R9 M370X' (P:0 D:0)
+[2017.01.22-02.51.40:505][  0]LogWindows:    5. 'AMD Radeon R9 M370X' (P:0 D:0)
+[2017.01.22-02.51.40:506][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2017.01.22-02.51.40:506][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 M370X
+[2017.01.22-02.51.40:506][  0]LogD3D11RHI:   Driver Version: 15.200.1060.0 (internal:15.200.1060.0, unified:15.200.1060.0)
+[2017.01.22-02.51.40:506][  0]LogD3D11RHI:      Driver Date: 7-15-2015
+[2017.01.22-02.51.40:506][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.22-02.51.40:513][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.22-02.51.40:526][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.01.22-02.51.40:527][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Intermediate/Shaders/WorkingDirectory/11772/).
+[2017.01.22-02.51.40:527][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marcus Seigman/AppData/Local/Temp/UnrealShaderWorkingDir/6867B1D8432D1A652B28CDAC165EC99A/'.
+[2017.01.22-02.51.40:527][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.22-02.51.41:519][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.22-02.51.41:567][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.22-02.51.41:619][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.22-02.51.41:675][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.22-02.51.41:735][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.22-02.51.41:783][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.22-02.51.41:830][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.22-02.51.41:880][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.22-02.51.41:925][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.22-02.51.41:978][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.22-02.51.42:028][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.22-02.51.42:079][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.22-02.51.42:127][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.22-02.51.42:180][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.22-02.51.42:226][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.22-02.51.42:330][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.22-02.51.42:330][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.22-02.51.42:367][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.22-02.51.42:446][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.22-02.51.42:478][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.22-02.51.42:524][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.22-02.51.42:572][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.22-02.51.42:623][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.22-02.51.42:680][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.22-02.51.42:680][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.22-02.51.43:045][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.22-02.51.43:120][  0]LogDerivedDataCache: Loaded boot cache 0.07s 50MB C:/Users/Marcus Seigman/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.22-02.51.43:120][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Marcus Seigman/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.22-02.51.43:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.22-02.51.43:120][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.22-02.51.43:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.22-02.51.43:120][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.22-02.51.43:136][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.22-02.51.43:148][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marcus Seigman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.22-02.51.43:353][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.22-02.51.43:356][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.22-02.51.43:543][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.22-02.51.43:579][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.22-02.51.43:624][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.22-02.51.43:624][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.22-02.51.43:624][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.22-02.51.44:107][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: globalgamejam2017, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3528608227
+[2017.01.22-02.51.44:160][  0]LogAssetRegistry: FAssetRegistry took 0.0222 seconds to start up
+[2017.01.22-02.51.44:198][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.019751 seconds
+[2017.01.22-02.51.44:203][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.22-02.51.44:203][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.22-02.51.44:203][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.22-02.51.44:256][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.22-02.51.44:930][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.22-02.51.44:930][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.22-02.51.44:930][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.22-02.51.45:670][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.22-02.51.45:707][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.22-02.51.45:977][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.22-02.51.46:307][  0]SourceControl: Info Source control is disabled
+[2017.01.22-02.51.47:807][  0]LogEngine: Initializing Engine...
+[2017.01.22-02.51.47:807][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.22-02.51.48:028][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.22-02.51.48:038][  0]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.01.22-02.51.48:081][  0]LogInit: FAudioDevice initialized.
+[2017.01.22-02.51.48:105][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/Marcus Seigman/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.22-02.51.48:112][  0]LogInit: Texture streaming: Enabled
+[2017.01.22-02.51.48:277][  0]LogInit: Transaction tracking system initialized
+[2017.01.22-02.51.48:582][  0]BlueprintLog: New page: Editor Load
+[2017.01.22-02.51.49:351][  0]LocalizationService: Info Localization service is disabled
+[2017.01.22-02.51.49:915][  0]LogConsoleResponse:Display: 
+[2017.01.22-02.51.50:044][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.22-02.51.50:044][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.22-02.51.50:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/' took 0.01s
+[2017.01.22-02.51.50:970][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.22-02.51.50:971][  0]LightingResults: New page: Lighting Build
+[2017.01.22-02.51.51:006][  0]MapCheck: New page: Map Check
+[2017.01.22-02.51.51:007][  0]LightingResults: New page: Lighting Build
+[2017.01.22-02.51.51:431][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.22-02.51.51:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.22-02.51.51:448][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.22-02.51.51:498][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 49.255ms to complete.
+[2017.01.22-02.51.51:498][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.528
+[2017.01.22-02.51.51:558][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.22-02.51.51:633][  0]LogCollectionManager: Loaded 0 collections in 0.002730 seconds
+[2017.01.22-02.51.51:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Saved/Collections/' took 0.01s
+[2017.01.22-02.51.51:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/Developers/MarcusSeigman/Collections/' took 0.01s
+[2017.01.22-02.51.51:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/Collections/' took 0.01s
+[2017.01.22-02.51.51:705][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.22-02.51.51:715][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2190 classes and 428 folders.
+[2017.01.22-02.51.51:751][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.22-02.51.51:751][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.22-02.51.51:751][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.01.22-02.51.51:803][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.22-02.51.51:842][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.01.22-02.51.51:898][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.01.22-02.51.51:924][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.22-02.51.51:929][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.22-02.51.51:987][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.22-02.51.51:987][  0]LogLoad: (Engine Initialization) Total time: 13.49 seconds
+[2017.01.22-02.51.51:987][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.16 seconds
+[2017.01.22-02.51.51:987][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.22-02.51.51:987][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.22-02.51.52:004][  0]LogOcInput: OculusInput pre-init called
+[2017.01.22-02.51.52:024][  0]SourceControl: Info On branch Marcus-Branch
+[2017.01.22-02.51.52:024][  0]SourceControl: Info Changes not staged for commit:
+[2017.01.22-02.51.52:024][  0]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2017.01.22-02.51.52:024][  0]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.01.22-02.51.52:024][  0]SourceControl: Info 	modified:   GlobalGameJam2017/Intermediate/CachedAssetRegistry.bin
+[2017.01.22-02.51.52:024][  0]SourceControl: Info 	deleted:    GlobalGameJam2017/Saved/Logs/GlobalGameJam2017-backup-2017.01.21-09.13.24.log
+[2017.01.22-02.51.52:024][  0]SourceControl: Info 	deleted:    GlobalGameJam2017/Saved/Logs/GlobalGameJam2017-backup-2017.01.21-10.30.15.log
+[2017.01.22-02.51.52:024][  0]SourceControl: Info 	deleted:    GlobalGameJam2017/Saved/Logs/GlobalGameJam2017-backup-2017.01.21-11.14.56.log
+[2017.01.22-02.51.52:024][  0]SourceControl: Info 	deleted:    GlobalGameJam2017/Saved/Logs/GlobalGameJam2017-backup-2017.01.21-19.05.15.log
+[2017.01.22-02.51.52:024][  0]SourceControl: Info 	modified:   GlobalGameJam2017/Saved/Logs/GlobalGameJam2017.log
+[2017.01.22-02.51.52:024][  0]SourceControl: Info Untracked files:
+[2017.01.22-02.51.52:024][  0]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.01.22-02.51.52:024][  0]SourceControl: Info 	GlobalGameJam2017/Saved/Logs/GlobalGameJam2017-backup-2017.01.21-21.51.39.log
+[2017.01.22-02.51.52:024][  0]SourceControl: Info 	GlobalGameJam2017/Saved/Logs/UE4CC-Windows-5C314544493B9CDD6F203897C319A855/
+[2017.01.22-02.51.52:024][  0]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2017.01.22-02.51.52:024][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.22-02.51.52:134][  0]LogRenderer: Reallocating scene render targets to support 1528x676 NumSamples 1 (Frame:2).
+[2017.01.22-02.51.52:496][  1]LogAssetRegistry: Asset discovery search completed in 8.3579 seconds
+[2017.01.22-02.51.52:496][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.22-02.51.52:496][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2017.01.22-02.52.00:479][456]LogAIModule: Creating AISystem for world KM_Test_1
+[2017.01.22-02.52.00:505][456]Cmd: MAP LOAD FILE="../../../../../../Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/TestLevels/KM_Test_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.22-02.52.00:505][456]LightingResults: New page: Lighting Build
+[2017.01.22-02.52.00:506][456]LoadErrors: New page: Loading map: KM_Test_1.umap
+[2017.01.22-02.52.00:507][456]MapCheck: New page: Map Check
+[2017.01.22-02.52.00:507][456]LightingResults: New page: Lighting Build
+[2017.01.22-02.52.00:521][456]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.22-02.52.00:551][456]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.22-02.52.00:598][456]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 46.496ms to complete.
+[2017.01.22-02.52.00:598][456]LogFileHelpers: Loading map 'KM_Test_1' took 0.093
+[2017.01.22-02.52.02:520][553]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.22-02.52.02:536][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.22-02.52.02:536][553]PIE: New page: PIE session: KM_Test_1 (Jan 21, 2017, 4:52:02 PM)
+[2017.01.22-02.52.02:536][553]LogPlayLevel: Creating play world package: /Game/TestLevels/UEDPIE_0_KM_Test_1
+[2017.01.22-02.52.02:539][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002825s)
+[2017.01.22-02.52.02:540][553]LogAIModule: Creating AISystem for world KM_Test_1
+[2017.01.22-02.52.02:540][553]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2017.01.22-02.52.02:540][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevels/KM_Test_1.KM_Test_1 to /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1 (0.003577s)
+[2017.01.22-02.52.02:600][553]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.01.22-02.52.02:604][553]LogInit: FAudioDevice initialized.
+[2017.01.22-02.52.02:653][553]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.01.22-02.52.02:656][553]LogWorld: Bringing World /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1 up for play (max tick rate 60) at 2017.01.21-21.52.02
+[2017.01.22-02.52.02:657][553]LogWorld: Bringing up level for play took: 0.002329
+[2017.01.22-02.52.02:692][553]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.01.22-02.52.02:694][553]PIE: Info Play in editor start time for /Game/TestLevels/UEDPIE_0_KM_Test_1 -0.368
+[2017.01.22-02.52.02:695][553]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:695][553]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:731][554]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:731][554]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:747][555]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:747][555]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:763][556]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:764][556]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:780][557]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:780][557]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:797][558]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:797][558]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:813][559]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:814][559]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:830][560]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:830][560]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:847][561]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:847][561]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:863][562]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:864][562]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:880][563]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:880][563]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:897][564]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:897][564]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:913][565]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:913][565]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:930][566]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:930][566]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:947][567]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:947][567]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:964][568]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:964][568]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:980][569]LogScript:Warning: Accessed None trying to read property DesiredNode
+	AiControls_C /Game/TestLevels/UEDPIE_0_KM_Test_1.KM_Test_1:PersistentLevel.AiControls_C_0
+	Function /Game/Blueprints/AIBehaviors/AiControls.AiControls_C:ExecuteUbergraph_AiControls:0128
+[2017.01.22-02.52.02:980][569]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.02:997][570]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:014][571]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:031][572]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:047][573]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:064][574]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:080][575]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:097][576]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:114][577]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:130][578]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:147][579]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:164][580]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:180][581]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:197][582]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:214][583]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:230][584]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:247][585]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:264][586]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:280][587]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:297][588]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:314][589]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:330][590]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:347][591]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:364][592]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:380][593]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:397][594]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:414][595]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:430][596]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:447][597]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:464][598]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:482][599]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:497][600]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:513][601]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:530][602]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:547][603]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:564][604]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:583][605]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:602][606]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:624][607]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:643][608]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:662][609]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:681][610]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:700][611]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:720][612]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:739][613]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:758][614]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:777][615]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:797][616]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:816][617]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:835][618]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:855][619]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:875][620]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:894][621]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:914][622]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:933][623]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:952][624]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:972][625]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.03:992][626]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:011][627]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:031][628]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:050][629]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:069][630]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:089][631]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:108][632]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:128][633]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:147][634]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:167][635]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:186][636]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:205][637]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:225][638]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:245][639]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:264][640]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:284][641]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:303][642]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:323][643]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:342][644]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:362][645]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:382][646]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:401][647]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:420][648]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:439][649]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:458][650]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:478][651]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:497][652]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:516][653]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:535][654]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:555][655]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:574][656]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:593][657]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:612][658]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:632][659]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:653][660]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:672][661]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:692][662]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:711][663]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:731][664]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:750][665]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:769][666]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:789][667]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:808][668]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:827][669]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:846][670]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:866][671]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:885][672]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:904][673]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:923][674]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:942][675]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:962][676]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.04:981][677]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:000][678]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:019][679]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:038][680]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:058][681]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:078][682]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:097][683]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:116][684]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:135][685]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:154][686]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:173][687]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:193][688]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:211][689]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:229][690]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:248][691]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:266][692]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:285][693]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:303][694]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:322][695]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:341][696]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:359][697]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:378][698]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:396][699]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:415][700]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:433][701]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:451][702]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:470][703]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:488][704]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:507][705]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:525][706]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:543][707]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:562][708]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:580][709]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:598][710]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:617][711]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:635][712]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:658][713]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:676][714]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:695][715]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:714][716]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:731][717]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:732][717]LogBlueprintUserMessages: [Trap_Ping_C_0] Object Placed!
+[2017.01.22-02.52.05:782][718]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:799][719]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:819][720]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:839][721]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:859][722]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:880][723]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:900][724]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:921][725]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:941][726]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:962][727]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.05:982][728]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:002][729]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:023][730]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:044][731]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:065][732]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:086][733]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:107][734]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:127][735]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:148][736]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:169][737]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:191][738]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:214][739]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:237][740]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:259][741]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:283][742]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:306][743]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:330][744]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:353][745]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:377][746]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:401][747]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:426][748]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:451][749]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:477][750]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:503][751]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:528][752]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:553][753]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:579][754]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:606][755]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:633][756]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:661][757]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:690][758]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:720][759]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:749][760]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:775][761]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:802][762]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:829][763]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:855][764]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:882][765]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:908][766]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:935][767]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:961][768]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.06:988][769]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:014][770]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:040][771]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:068][772]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:095][773]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:121][774]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:148][775]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:174][776]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:201][777]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:227][778]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:253][779]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:279][780]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:306][781]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:332][782]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:358][783]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:383][784]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:409][785]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:434][786]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:459][787]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:484][788]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:508][789]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:532][790]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:556][791]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:580][792]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:605][793]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:629][794]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:653][795]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:677][796]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:702][797]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:726][798]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:750][799]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:775][800]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:799][801]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:823][802]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:847][803]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:871][804]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:896][805]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:920][806]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:945][807]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:969][808]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.07:994][809]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:018][810]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:042][811]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:067][812]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:091][813]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:116][814]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:141][815]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:166][816]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:190][817]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:215][818]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:240][819]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:264][820]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:291][821]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:315][822]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:341][823]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:366][824]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:390][825]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:416][826]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:440][827]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:465][828]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:489][829]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:515][830]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:539][831]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:564][832]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:589][833]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:614][834]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:638][835]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:663][836]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:688][837]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:726][838]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:750][839]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:775][840]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:800][841]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:824][842]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:848][843]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:873][844]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:898][845]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:922][846]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:947][847]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:972][848]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.08:996][849]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:021][850]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:045][851]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:070][852]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:095][853]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:121][854]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:147][855]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:171][856]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:196][857]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:220][858]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:244][859]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:268][860]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:294][861]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:318][862]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:342][863]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:366][864]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:391][865]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:415][866]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:439][867]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:465][868]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:490][869]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:515][870]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:540][871]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:565][872]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:589][873]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:613][874]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:638][875]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:663][876]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:688][877]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:712][878]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:737][879]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:762][880]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:787][881]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:812][882]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:838][883]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:864][884]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:887][885]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:929][886]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:958][887]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.09:990][888]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.10:066][891]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property DesiredNode from function: 'ExecuteUbergraph_AiControls' from node: Set DesiredNode in graph: EventGraph in object: AiControls with description: Accessed None trying to read property DesiredNode
+[2017.01.22-02.52.11:629][974]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.22-02.52.11:807][975]Cmd: QUIT_EDITOR
+[2017.01.22-02.52.12:447][975]LogExit: Preparing to exit.
+[2017.01.22-02.52.12:854][975]LogDirectoryWatcher: A directory notification for 'C:/Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/' was aborted.
+[2017.01.22-02.52.12:872][975]LogExit: Editor shut down
+[2017.01.22-02.52.12:873][975]LogExit: Transaction tracking system shut down
+[2017.01.22-02.52.12:933][975]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.22-02.52.12:933][975]LogExit: Object subsystem successfully closed.
+[2017.01.22-02.52.12:946][975]LogD3D11RHI: Shutdown
+[2017.01.22-02.52.12:946][975]LogD3D11RHI: CleanupD3DDevice
+[2017.01.22-02.52.13:034][975]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.22-02.52.13:045][975]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.22-02.52.13:045][975]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B965A7FDF-4C8A-E733-168F-77A4EC495F5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=1577da4f47d3803e40868f97a1a71a29%7C566e30a0c941480990af0f8eb2de9bb5%7C75a25535-5567-4868-9102-bb31ed83f9f5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.22-02.52.13:045][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.13:547][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.14:047][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.14:547][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.15:048][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.15:548][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.16:048][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.16:549][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.17:049][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.17:549][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.18:050][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.18:550][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.19:051][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.19:551][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.20:051][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.20:552][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.21:052][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.21:552][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.22:053][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.22:553][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.23:053][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.23:554][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.24:054][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.24:554][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.25:055][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.25:555][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.26:056][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.26:556][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.27:056][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.27:557][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.28:057][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.28:557][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.29:058][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.29:558][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.30:058][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.30:559][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.31:059][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.31:559][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.32:060][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.32:560][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.33:060][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.33:561][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.34:061][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.34:562][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.35:062][975]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.01.22-02.52.35:595][975]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (242)
+[2017.01.22-02.52.35:595][975]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.01.22-02.52.35:595][975]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.01.22-02.52.35:595][975]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.01.22-02.52.35:595][975]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.01.22-02.52.35:595][975]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.01.22-02.52.35:596][975]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.22-02.52.35:598][975]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.01.22-02.52.35:598][975]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.01.22-02.52.35:598][975]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.01.22-02.52.35:598][975]LogDirectoryWatcher: A directory notification for 'C:/Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/Collections/' was aborted.
+[2017.01.22-02.52.35:599][975]LogDirectoryWatcher: A directory notification for 'C:/Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/Developers/MarcusSeigman/Collections/' was aborted.
+[2017.01.22-02.52.35:599][975]LogDirectoryWatcher: A directory notification for 'C:/Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Saved/Collections/' was aborted.
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.22-02.52.35:599][975]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.22-02.52.35:600][975]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.22-02.52.35:600][975]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.22-02.52.35:600][975]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.22-02.52.35:600][975]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.22-02.52.35:600][975]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.22-02.52.35:674][975]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.22-02.52.35:675][975]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.22-02.52.35:675][975]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.22-02.52.35:675][975]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.22-02.52.35:675][975]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.22-02.52.35:675][975]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.22-02.52.35:675][975]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.22-02.52.35:719][975]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.22-02.52.35:720][975]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.22-02.52.35:807][975]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.22-02.52.35:808][975]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.22-02.52.35:809][975]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.22-02.52.35:809][975]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.22-02.52.35:809][975]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.22-02.52.35:910][975]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.22-02.52.36:012][975]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.22-02.52.36:014][975]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.22-02.52.36:014][975]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.22-02.52.36:014][975]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.22-02.52.36:014][975]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.22-02.52.36:014][975]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.22-02.52.36:014][975]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.22-02.52.36:014][975]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.22-02.52.36:014][975]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Marcus Seigman/Desktop/GGJ/GlobalGameJam2017/Content/' was aborted.
+[2017.01.22-02.52.36:014][975]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.22-02.52.36:015][975]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.22-02.52.36:092][975]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.22-02.52.36:092][975]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.22-02.52.36:092][975]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.22-02.52.36:092][975]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.22-02.52.36:092][975]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.22-02.52.36:092][975]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.22-02.52.36:092][975]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.22-02.52.36:092][975]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.22-02.52.36:180][975]LogDerivedDataCache: Shutdown
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.22-02.52.36:180][975]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.22-02.52.36:181][975]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.22-02.52.36:181][975]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.22-02.52.36:182][975]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.22-02.52.36:182][975]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.22-02.52.36:182][975]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.22-02.52.36:182][975]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.22-02.52.36:182][975]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.22-02.52.36:182][975]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.22-02.52.36:183][975]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.22-02.52.36:184][975]LogExit: Exiting.
+[2017.01.22-02.52.36:185][975]Log file closed, 01/21/17 21:52:36
